@@ -4974,11 +4974,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Downloads\\02. DB-Advanced-ORM-Fundamentals-MiniORM-Lab-Skeleton\\MiniORM\\MiniORM.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Downloads\\02. DB-Advanced-ORM-Fundamentals-MiniORM-Lab-Skeleton\\Lab_MiniORM-Core\\MiniORM\\MiniORM.csproj",
       "projectName": "MiniORM",
-      "projectPath": "C:\\Users\\User\\Downloads\\02. DB-Advanced-ORM-Fundamentals-MiniORM-Lab-Skeleton\\MiniORM\\MiniORM.csproj",
+      "projectPath": "C:\\Users\\User\\Downloads\\02. DB-Advanced-ORM-Fundamentals-MiniORM-Lab-Skeleton\\Lab_MiniORM-Core\\MiniORM\\MiniORM.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Downloads\\02. DB-Advanced-ORM-Fundamentals-MiniORM-Lab-Skeleton\\MiniORM\\obj\\",
+      "outputPath": "C:\\Users\\User\\Downloads\\02. DB-Advanced-ORM-Fundamentals-MiniORM-Lab-Skeleton\\Lab_MiniORM-Core\\MiniORM\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

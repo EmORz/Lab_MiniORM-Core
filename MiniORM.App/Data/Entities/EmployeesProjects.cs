@@ -3,11 +3,11 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace MiniORM.App.Data.Entities
 {
-    public class EmployeeProject
+    public class EmployeesProjects
     {
         [Key]
         [ForeignKey(nameof(Employee))]
-        public int EmplloyeeId { get; set; }
+        public int EmployeeId { get; set; }
 
         [Key]
         [ForeignKey(nameof(Project))]

@@ -13,6 +13,6 @@
 
         public DbSet<Department> Departments { get; }
 
-        public DbSet<EmployeeProject> EmployeeProjects { get; }
+        public DbSet<EmployeesProjects> EmployeesProjects { get; }
     }
 }
